@@ -36,4 +36,4 @@ This is the central hub for the backing up of all projects from all teams and fo
 
 ## Phase 4: StagesApp Desktop & Mobile Final Stretch
 * **Start Date:** March 1, 2021
-* **Primary Goals:** Work with feeback from CLA experts and testers to debug, update, and complete all features across all the four different parts of StagesApp then officially release version 1.0 of all products.
+* **Primary Goals:** Work with feeback from CLA experts and testers to debug, update, and complete all features for the StagesApp Collaboration Suite then officially release version 1.0 of the suite.
