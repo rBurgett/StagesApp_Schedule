@@ -1,6 +1,6 @@
 # StagesApp
 
-StagesApp is a mobile application in four parts. There is the mobile application itself, the desktop application, the collaboration server, and the cloud server. Development to version 1.0 is scheduled to take three years from start to version 1.0.
+StagesApp is a mobile application in four parts. There is the [mobile application](https://github.com/rBurgett/StagesApp_Schedule#1-stagesapp-mobile-application), the [desktop application](https://github.com/rBurgett/StagesApp_Schedule#2-stagesapp-desktop-application), the [collaboration server](https://github.com/rBurgett/StagesApp_Schedule#3-collaboration-server), and the [cloud server](https://github.com/rBurgett/StagesApp_Schedule#4-cloud-server). Development to version 1.0 is scheduled to take three years from start to version 1.0.
 
 # StagesApp Collaboration Suite
 
